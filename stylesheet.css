@@ -101,14 +101,14 @@ a:hover{
 {
 	float:left;
 	width:900px;
-	height:400px;
+	height:350px;
 }
 
 #aboutContainera
 {
 	float:left;
 	width:300px;
-	height:400px;
+	height:350px;
 	font-family:tahoma;
 	font-weight:bold;
 	font-size:16px;
@@ -146,6 +146,11 @@ a:hover{
 	color:#CCCCCC;
 }
 
+#links
+{
+	color:#0F0;
+}
+
 #aboutContainerd
 {
 	padding-top:40px;
@@ -158,4 +163,41 @@ a:hover{
 	font-weight:bold;
 	font-size:15px;
 	text-decoration:underline;
+}
+
+#containercvbig {
+margin-left:330px;
+width: 900px;
+float:left;
+text-align:left;
+}
+
+#containercv {
+margin: 0 auto;
+width: 260px;
+float:left;
+}
+
+#cvtitlebig
+{
+	color:#CCCCCC;
+	font-family:tahoma;
+	font-weight:bold;
+	font-size:16px;
+}
+
+#cvtitle
+{
+	color:#CCCCCC;
+	font-family:tahoma;
+	font-weight:bold;
+	font-size:14px;
+}
+
+#cvregular
+{
+	color:#CCCCCC;
+	font-family:tahoma;
+	font-weight:regular;
+	font-size:13px;
 }
